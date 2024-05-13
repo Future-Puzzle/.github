@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/Future-Puzzle/.github/blob/main/profile/future-1.png" width="200" height="200"></p>
 
-<h1 align="center">The Team Future</h1>
+<h1 align="center">Team Future</h1>
 
 <div align="center"> 
   <a href="https://www.skland.com/"><img src="https://img.shields.io/badge/Skland-FUTURE%E6%94%BB%E5%9D%9A%E7%BB%84-gray?labelColor=90C208&style=for-the-badge&link=https://www.skland.com/" alt="Skland" /></a>
