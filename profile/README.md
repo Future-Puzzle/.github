@@ -2,7 +2,7 @@
 
 <h1 align="center">Future Puzzle</h1>
 
-<h3 align="center">We create puzzles, we reveal puzzles, we are Futre Puzzle</h3>
+<h3 align="center">We create puzzles, we reveal puzzles, we are Future Puzzle</h3>
 
 
 
